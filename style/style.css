@@ -23,6 +23,7 @@ h2,
 h3,
 .wish-hbd span {
   color: #ff69b4;
+  font-size: 2rem;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
   /* Keep that soft pink vibe */
 }
